@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# Taken from SunFounder's LCD1602 exercise for the RPi
 from time import sleep
 
 class LCD:
